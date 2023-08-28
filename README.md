@@ -14,24 +14,24 @@ Frog-Jump-Game-Project/
     │   ├── background.jpg
     │   └── obstacle.png
     
-index.html: The main HTML file for your game.
-style.css: The CSS file for styling your game's visual elements.
+index.html: The main HTML file for my game.
+style.css: The CSS file for styling my game's visual elements.
 script.js: The JavaScript file containing the game logic and interaction.
-README.md: A markdown file providing information about your project, how to set it up, and how to play the game.
-assets/: A directory to store all your project's assets.
+README.md: A markdown file providing information about my project, how to set it up, and how to play the game.
+assets/: A directory to store all my project's assets.
 images/: A subdirectory for image assets used in the game.
 
-Your README.md could look something like this:
+my README.md could look something like this:
 
 # Frog Jump Game Project
 
-Welcome to the Frog Jump Game project! This is a simple web-based game implemented using JavaScript, HTML, and CSS.
+Welcome to the Frog Jump Game project! This simple web-based game is implemented using JavaScript, HTML, and CSS.
 
 ## How to Play
 
 1. Clone or download the repository.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `index.html` file in my preferred web browser.
 3. Use the arrow keys to control the frog's jumps and avoid obstacles.
 4. Collect points by successfully jumping over obstacles.
-5. Have fun and challenge yourself to achieve a high score!
+5. Have fun and challenge myself to achieve a high score!
 
