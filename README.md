@@ -1,4 +1,7 @@
-# Frog Jump Game Project
+![Screenshot from 2023-08-28 19-02-28](https://github.com/Ayuhoney/frog_jump/assets/99753206/952421df-3159-41e8-b4e5-aec2f58cbb34)# Frog Jump Game Project
+![Screenshot from 2023-08-28 19-02-51](https://github.com/Ayuhoney/frog_jump/assets/99753206/3f9547d2-bed6-4273-b9d4-66052f692f57)
+![Screenshot from 2023-08-28 19-02-43](https://github.com/Ayuhoney/frog_jump/assets/99753206/b40a2347-feb9-4b0d-969d-9d22d6d01845)
+![Screenshot from 2023-08-28 19-02-34](https://github.com/Ayuhoney/frog_jump/assets/99753206/74299bf8-3ea6-4416-9ac1-5bab0c6d5ab0)
 
 Frog-Jump-Game-Project/
 ├── index.html
